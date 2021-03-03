@@ -1,7 +1,7 @@
 package com.javastudy;
 
-public class Main {
-    // chapter 2 - 변수
+public class JavaStudy001 {
+    // chapter 3 - 변수 (chapter 1, 2 skip)
     //==================================================================================================
     // 변수의 타입
     // 문자 char
