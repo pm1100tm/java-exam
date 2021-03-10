@@ -1,6 +1,7 @@
 package com.javastudy;
 
 public class JavaStudy005 {
+
     public static void main(String[] args) {
         /* Class */
         /* 객체지향1
@@ -30,6 +31,13 @@ public class JavaStudy005 {
         * 구조체 - 타입에 관계없이 서로 관련된 데이터들을 저장할 수 있는 공간
         * 클래스 - 데이터와 함수의 결합 (구조체 + 함수)
         **/
+        
+        /* 객체지향2
+        *
+        * 
+        * 
+        * **/
+        
         
     }
 
