@@ -54,6 +54,9 @@ public class JavaStudy010 {
     * String name() - 열거형 상수의 이름을 문자열로 반환한다.
     * int ordinal() - 열거형 상수가 정의된 순서를 반환한다.
     * T valueOf(Class<T> enumType, String name) - 지정된 열거형에서 name 과 일치하는 열거형 상수를 반환한다.
+    * 
+    * 
+    * 
     * */
     
     public static void main(String[] args) {
